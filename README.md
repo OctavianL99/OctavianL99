@@ -3,7 +3,6 @@
 
 - I’m currently learning **Deep Learning and the C Programming Language**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
